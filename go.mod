@@ -3,7 +3,7 @@ module github.com/doodlescheduling/package-retention
 go 1.20
 
 require (
-	github.com/google/go-containerregistry v0.15.1
+	github.com/google/go-containerregistry v0.15.2
 	github.com/google/go-github/v52 v52.0.0
 	github.com/migueleliasweb/go-github-mock v0.0.17
 	github.com/sethvargo/go-githubactions v1.1.0
